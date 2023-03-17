@@ -1,6 +1,6 @@
 import React from 'react'
 import '../css/Cartas.css'
-import blockfront from '../img/testi.png'
+import blockfront from '../img/memo.png'
 
 function Cartas({ animation, handleMemoriaClick, memoria}) {
   return (
